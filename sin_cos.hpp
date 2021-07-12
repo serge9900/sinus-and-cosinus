@@ -1,7 +1,6 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
-double funi(int);
-double fun (int);
-double sint(int);
-double cost(int);
+long long unsigned int fun (int);
+double sint(double);
+double cost(double);
